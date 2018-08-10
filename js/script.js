@@ -1,5 +1,4 @@
 
-
     function triangleTracker(){
     	var A = parseFloat(document.getElementById('sideA').value);
     	var B= parseFloat(document.getElementById('sideB').value);
