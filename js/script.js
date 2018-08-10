@@ -10,7 +10,7 @@
 
 
     	 if ((AB < C) || (AC < B) || (BC < A)) {
-    		 alert("There is no triangle formed");
+    		 alert("it is a Scalene triangle ");
     	}
     	else if(A === B && B === C){
     		alert("You have an equilateral triangle");
@@ -20,6 +20,6 @@
     		alert("You have an isosceles triangle");
     	}
     	else {
-    		alert("Scalene triangle formed");
+    		alert("There is no triangle formed");
     	}
     }
